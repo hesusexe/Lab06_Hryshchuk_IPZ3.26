@@ -1,0 +1,17 @@
+Грищук Богдан
+ІПЗ 3/26
+Варіант 13
+Node version v24.21.0
+Npm version 11.19.0
+Git version 2.52.0
+Husky@9 version 9.1.7
+Prettier@3 version 3.9.10
+Hello, Bohdan
+Group: IPZ-3.26
+[warn] app.js
+[warn] Code style issues found in the above file. Run Prettier with --write to fix.
+echo $? 1
+fatal: your current branch 'main' does not have any commits yet
+All matched files use Prettier code style! echo $? 0
+0cd93aa (HEAD -> main) Add variant message
+08e76a2 Add student program
